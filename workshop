@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Before You Yell — a free live masterclass for Muslim parents ready to break the yell, guilt, promise, repeat cycle.">
+  <meta name="theme-color" content="#1e2119">
+  <title>Before You Yell — Free Live Masterclass</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Italiana&family=Newsreader:opsz,wght@6..72,300;6..72,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="hero" id="top">
+    <div class="brand-mark" aria-label="The Good Child">THE GOOD CHILD <span>®</span></div>
+    <div class="hero-copy">
+      <p class="eyebrow">Free live masterclass for Muslim parents</p>
+      <h1>Before<br><em>You</em> Yell</h1>
+      <p class="hero-sub">How to break the Yell <span>→</span> Guilt <span>→</span> “I’ll Do Better Tomorrow” <span>→</span> Yell Again cycle</p>
+      <p class="hero-support">You already know how you want to parent. Come discover why knowing better isn’t always enough—and what needs to happen <em>before</em> the reaction if you want to finally change it.</p>
+      <button class="button js-open" type="button">Reserve my free spot <span aria-hidden="true">↗</span></button>
+      <div class="event-strip" aria-label="Event details">
+        <span>Date announced soon</span><span>Time announced soon</span><span>Live online</span><span>Free</span>
+      </div>
+    </div>
+    <figure class="hero-image">
+      <img src="./assets/hero-mother.webp" width="1152" height="1536" alt="A mother holding her toddler during a quiet moment at home">
+      <figcaption>Not a bad mother.<br>A human one.</figcaption>
+    </figure>
+    <div class="hero-number" aria-hidden="true">01</div>
+  </header>
+
+  <main id="main">
+    <section class="recognition section">
+      <div class="recognition-heading">
+        <p class="eyebrow clay">The moment you know too well</p>
+        <h2>You know how you<br>want to parent.</h2>
+        <p class="question">So why can’t you access that version of yourself when things get hard?</p>
+      </div>
+      <div class="spoken">
+        <p>You ask nicely.</p><p>Then again.</p><p>Then again.</p>
+        <p>Your child ignores you.</p><p>Someone starts crying.</p><p>The siblings are fighting.</p><p>You’re already late.</p>
+        <p class="ellipsis">And suddenly…</p><p class="yelling">you hear yourself yelling.</p>
+      </div>
+      <blockquote>“Why did I do that <em>again?</em>”</blockquote>
+    </section>
+
+    <section class="pattern section">
+      <div class="stamp" aria-hidden="true">Pattern<br>interrupt</div>
+      <h2>What if the problem isn’t that you need more patience?</h2>
+      <div class="pattern-copy">
+        <p>Most advice about yelling starts in the final few seconds:</p>
+        <p class="list-lines">Take a breath.<br>Walk away.<br>Count to ten.<br>Lower your voice.</p>
+        <p>Useful? Sometimes.<br><strong>But there’s a bigger problem.</strong></p>
+      </div>
+      <div class="mega-statement"><span>The yell</span><span>doesn’t start</span><span>when you yell.</span></div>
+      <p class="statement-note">By the time your voice gets loud, your mind and body may already have been moving toward that reaction for several minutes.</p>
+    </section>
+
+    <section class="cycle section" aria-labelledby="cycle-title">
+      <div class="section-index">02 / THE LOOP</div>
+      <h2 id="cycle-title">The old cycle</h2>
+      <div class="cycle-track">
+        <div><b>Trigger</b><small>The moment</small></div><i>→</i>
+        <div><b>Yell</b><small>The reaction</small></div><i>→</i>
+        <div><b>Guilt</b><small>The crash</small></div><i>→</i>
+        <div class="promise"><b>“I’ll do better<br>tomorrow”</b><small>The promise</small></div><i>↩</i>
+      </div>
+      <p class="marker-note">Trying harder tomorrow doesn’t change what happened <u>before</u> the yell today.</p>
+      <button class="text-link js-open" type="button">Reserve my free spot <span aria-hidden="true">→</span></button>
+    </section>
+
+    <section class="new-question dark section">
+      <p class="eyebrow butter">A better place to begin</p>
+      <div class="ask-grid">
+        <div><small>Instead of asking…</small><p>“How do I<br>stop yelling?”</p></div>
+        <div class="turn-arrow" aria-hidden="true">↳</div>
+        <div><small>Start asking:</small><h2>“What happens<br><em>before</em> I yell?”</h2></div>
+      </div>
+      <p class="dark-support">This masterclass will help you understand the invisible sequence happening between your child’s behavior and your own reaction—because the earlier you recognize yourself in that sequence, the more choice you have over what happens next.</p>
+      <button class="button light js-open" type="button">Show me what happens before <span aria-hidden="true">↗</span></button>
+    </section>
+
+    <section class="discover section">
+      <div class="discover-intro">
+        <p class="eyebrow clay">What we’ll unpack together</p>
+        <h2>Inside<br><em>Before You Yell</em></h2>
+        <p>We’re not adding 47 new parenting techniques to your mental load. We’re changing the way you understand the problem.</p>
+      </div>
+      <div class="lesson lesson-wide"><span>01</span><div><h3>Why knowing better isn’t always enough</h3><p>Understand why you can genuinely know how you want to respond and still lose access to that response under stress.</p></div></div>
+      <div class="lesson offset"><span>02</span><div><h3>The reaction chain</h3><p>Discover what happens between your child’s behavior and your eventual outburst—and how to recognize yourself much earlier.</p></div></div>
+      <div class="lesson lesson-dark"><span>03</span><div><h3>Your child knows better. So why don’t they do better?</h3><p>Understand the developmental difference between knowing a rule and being able to regulate, inhibit an impulse, and follow it in a difficult moment.</p></div></div>
+      <div class="lesson"><span>04</span><div><h3>When two nervous systems collide</h3><p>See how your child’s resistance activates you, your reaction activates them, and both of you can accidentally reinforce the exact cycle you want to stop.</p></div></div>
+      <div class="lesson offset"><span>05</span><div><h3>Why “calm” isn’t the goal</h3><p>You can be angry. Firm. Disappointed. Clear. You can hold boundaries. The goal is not emotional perfection—the goal is choice.</p></div></div>
+      <div class="lesson lesson-wide clay-block"><span>06</span><div><h3>From willpower to design</h3><p>Learn why recurring parenting problems need more than “I’ll try harder next time”—and why strong leaders decide more before the difficult moment arrives.</p></div></div>
+    </section>
+
+    <section class="choice-statement dark section">
+      <p>The opposite of<br>reactive parenting<br>isn’t calm.</p>
+      <h2>It’s choice.</h2>
+      <div class="choice-line"></div>
+      <p class="choice-support">The goal isn’t to never feel triggered. It’s to create enough space between what happens and what you do next that your values, wisdom and faith get a vote.</p>
+    </section>
+
+    <section class="comparison section">
+      <p class="eyebrow clay">Same parent. Different preparation.</p>
+      <div class="comparison-grid">
+        <div class="willpower">
+          <h3>Willpower parenting</h3>
+          <ol><li>React</li><li>Regret</li><li>Promise</li><li>Repeat</li></ol>
+          <p>“Tomorrow I’ll try harder.”</p>
+        </div>
+        <div class="by-design">
+          <h3>Parenting by design</h3>
+          <ol><li>Anticipate</li><li>Decide</li><li>Lead</li><li>Repair</li><li>Refine</li></ol>
+          <p>“I don’t need to make every parenting decision at my breaking point.”</p>
+        </div>
+      </div>
+      <h2>“I’ll try harder tomorrow”<br>is not a parenting system.</h2>
+      <button class="button js-open" type="button">Reserve my free spot <span aria-hidden="true">↗</span></button>
+    </section>
+
+    <section class="triggers section">
+      <p class="eyebrow butter">Because the same moments keep happening.</p>
+      <div class="word-cloud" aria-label="Common parenting triggers">
+        <span>Getting out the door</span><span>Screens</span><span>Bedtime</span><span>Sibling fights</span><span>“No!”</span><span>Tantrums</span><span>Backtalk</span><span>Homework</span><span>Repeating yourself</span><span>Crying</span><span>Hitting</span><span>“I said in a minute!”</span>
+      </div>
+      <p class="trigger-question">These moments are predictable. So why are we waiting until we’re inside them to decide how we want to parent?</p>
+      <button class="button light js-open" type="button">I want in <span aria-hidden="true">↗</span></button>
+    </section>
+
+    <section class="for-you section">
+      <div class="for-you-title"><p class="eyebrow clay">You are not the only one</p><h2>You’ll feel at home in this room if…</h2></div>
+      <div class="for-you-list">
+        <p>You love your children deeply but don’t always recognize yourself when you’re overwhelmed.</p>
+        <p>You’ve apologized for the same reaction more times than you want to admit.</p>
+        <p>You know a lot about parenting—but struggle to access what you know in the moments that matter most.</p>
+        <p>You want boundaries without harshness.</p>
+        <p>You don’t want permissive parenting, but you also don’t want anger to become the only way your children know you’re serious.</p>
+        <p>You want to understand child development without using it as an excuse for poor behavior.</p>
+        <p>You want your relationship with Allah and your values to shape how you lead your home.</p>
+        <p class="last">And perhaps more than anything…<br><strong>you want to trust yourself again in the hard moments.</strong></p>
+      </div>
+    </section>
+
+    <section class="host section">
+      <div class="host-portrait" aria-label="Portrait placeholder for Eman">
+        <span>EA</span><small>Your portrait<br>goes here</small>
+      </div>
+      <div class="host-copy">
+        <p class="eyebrow butter">Meet your host</p>
+        <h2>Assalamu Alaikum,<br>I’m Eman.</h2>
+        <p class="lead"><strong>I’m a parent educator, child-development professional, and founder of The Good Child.</strong></p>
+        <p>My work explores what happens when we stop treating parenting as a collection of scripts and techniques and begin seeing it for what it really is: the lifelong work of leading another developing human being.</p>
+        <p>I teach Muslim parents how to understand their children developmentally, lead their homes intentionally, and build parenting practices rooted in faith rather than fear, trends or perfection.</p>
+        <p>The question that has shaped so much of my work is not simply:</p>
+        <blockquote>“What should a good parent do?”</blockquote>
+        <p>It’s:</p>
+        <blockquote class="strong">“How do we become able to access what we know when parenting gets hard?”</blockquote>
+      </div>
+    </section>
+
+    <section class="future section">
+      <p class="eyebrow clay">A different next move</p>
+      <h2>Imagine noticing<br>yourself sooner.</h2>
+      <div class="future-copy">
+        <p>Your child says no.</p><p>You feel the irritation rise.</p><p>But this time… <strong>you recognize it.</strong></p>
+        <p>You know what is happening.<br>You know what this moment requires.</p>
+        <p>And instead of your frustration automatically choosing the next move—</p><p class="you-do">you do.</p>
+      </div>
+      <div class="maybe-list"><span>Maybe you hold the boundary.</span><span>Maybe you use fewer words.</span><span>Maybe you help.</span><span>Maybe you step away.</span><span>Maybe there’s a consequence.</span><span>Maybe you realize this battle never needed to happen.</span></div>
+      <p class="future-note">The transformation isn’t becoming a perfectly calm parent. It’s becoming someone who can increasingly say:</p>
+      <blockquote>“Even when this is hard, I still know who I am and how I want to lead.”</blockquote>
+    </section>
+
+    <section class="final-cta dark section">
+      <p class="eyebrow butter">Free live masterclass</p>
+      <h2>Before<br><em>You</em> Yell</h2>
+      <p class="final-sub">How to break the Yell → Guilt → “I’ll Do Better Tomorrow” → Yell Again cycle</p>
+      <div class="final-details"><span>Date announced soon</span><span>Time announced soon</span><span>Live online</span><span>Free</span></div>
+      <button class="button light giant js-open" type="button">Yes — I want to break the cycle <span aria-hidden="true">↗</span></button>
+      <p class="reassurance">Come as you are. No perfect parenting required.</p>
+    </section>
+  </main>
+
+  <footer><span>© The Good Child</span><a href="#top">Back to top ↑</a></footer>
+
+  <div class="sticky-cta" aria-hidden="true"><button class="button js-open" type="button">Reserve my free spot →</button></div>
+
+  <dialog id="registerDialog" aria-labelledby="form-title">
+    <button class="close js-close" type="button" aria-label="Close registration form">×</button>
+    <div class="form-kicker">FREE LIVE MASTERCLASS</div>
+    <h2 id="form-title">Save your seat<br><em>before</em> the moment.</h2>
+    <p>Enter your details and we’ll send the live masterclass information straight to your inbox.</p>
+    <form id="registrationForm">
+      <label for="firstName">First name</label>
+      <input id="firstName" name="firstName" autocomplete="given-name" required placeholder="Your first name">
+      <label for="email">Email address</label>
+      <input id="email" name="email" type="email" autocomplete="email" required placeholder="you@example.com">
+      <button class="button" type="submit">Reserve my free spot <span aria-hidden="true">→</span></button>
+      <small>No spam. Just the masterclass details and thoughtful parenting support.</small>
+    </form>
+    <div class="form-success" hidden>
+      <span aria-hidden="true">✓</span><h3>You’re on the list.</h3><p>Keep an eye on your inbox for the masterclass details.</p>
+    </div>
+  </dialog>
+  <script src="./assets/site.js"></script>
+</body>
+</html>
