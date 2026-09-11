@@ -478,6 +478,41 @@
   var ZOOM_URL = "https://us06web.zoom.us/j/7084710123?pwd=V0dxSzd4S3RPOU05M05jT2Rkc0MrZz09";
   var DUBAI_OFFSET_MS = 4 * 3600 * 1000;
 
+  var GFORM_ACTION = "https://docs.google.com/forms/d/e/1FAIpQLSdBujzVjvPxB-9h-GRBG826YXq8TKBy7nVu31YVjarBQp8s_g/formResponse";
+  var GFORM_FIELDS = {
+    name: "entry.1797401453",
+    timezone: "entry.1282348932",
+    confirmed: "entry.54867119"
+  };
+
+  function submitToGoogleForm(values){
+    var iframe = document.createElement("iframe");
+    iframe.name = "hidden_gform_target";
+    iframe.style.display = "none";
+    document.body.appendChild(iframe);
+
+    var form = document.createElement("form");
+    form.action = GFORM_ACTION;
+    form.method = "POST";
+    form.target = "hidden_gform_target";
+    form.style.display = "none";
+
+    Object.keys(values).forEach(function(key){
+      var input = document.createElement("input");
+      input.type = "hidden";
+      input.name = GFORM_FIELDS[key];
+      input.value = values[key];
+      form.appendChild(input);
+    });
+
+    document.body.appendChild(form);
+    form.submit();
+    setTimeout(function(){
+      form.remove();
+      iframe.remove();
+    }, 3000);
+  }
+
   var COMMON_ALIASES = {
     "usa": "America/New_York", "united states": "America/New_York", "america": "America/New_York",
     "uk": "Europe/London", "britain": "Europe/London", "england": "Europe/London",
@@ -675,6 +710,12 @@
 
     var localStr = formatInTz(EVENT_UTC, selectedTz);
     var dubaiStr = formatInTz(EVENT_UTC, "Asia/Dubai");
+
+    submitToGoogleForm({
+      name: name,
+      timezone: selectedTz.replace(/_/g, " ") + " — " + localStr,
+      confirmed: "Yes"
+    });
 
     show("step-pass");
     headTitle.textContent = "You're on the list";
